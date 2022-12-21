@@ -1,0 +1,21 @@
+#container{
+ 
+    border: 2px solid;
+    border-color: rgb(183, 131, 131);
+    /* text-align: center; */
+    color: rgb(1, 1, 1);
+    
+    /* margin-left: 500px; */
+    background-image: url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_178895760_970727970450089_46942.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height:100vh;
+
+}
+.button{
+    color:beige;
+    background-color: brown;
+}
+#input{
+    background-color: rgb(242, 37, 37,0.5);
+}
